@@ -1,1 +1,1 @@
-Feature:"student registered"
+Feature: student registered.
