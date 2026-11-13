@@ -1,1 +1,1 @@
-Feature: Basic Student Management.
+Feature:"student registered"
